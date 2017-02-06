@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+
+    <!-- MENU ITEMS -->
+    <string name="menu_name">Menu</string>
+    <string name="settings_button">Settings</string>
+    <string name="exit_button">Exit</string>
+</resources>
